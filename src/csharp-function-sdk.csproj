@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+      <Compile Include="IFunctionHandler.cs" />
+      <Compile Include="Request.cs" />
+      <Compile Include="Response.cs" />
+  </ItemGroup>
+</Project>
