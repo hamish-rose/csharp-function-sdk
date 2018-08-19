@@ -1,2 +1,2 @@
 # csharp-function-sdk
-An SDK for building functions in Csharp
+An SDK for building OpenFaaS functions in C#
